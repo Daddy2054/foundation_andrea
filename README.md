@@ -262,4 +262,4 @@ This project includes a documentation website that can be found here:
 10. Wrap Up
 11. Conclusion & Next Steps
 
-### [LICENSE: MIT](LICENSE.md)
+### [LICENSE: MIT](LICENSE.md)   
